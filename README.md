@@ -1,3 +1,4 @@
 # addiejohnsen
-![Blue and Yellow Technology LinkedIn Banner](https://user-images.githubusercontent.com/79018160/126242083-cd1b7326-a55f-4029-b3aa-0c24ed7eed07.png)
+![Blue and Yellow Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/79018160/126242175-432e4cf7-4730-4d1a-89db-1569408ea106.png)
+
 
