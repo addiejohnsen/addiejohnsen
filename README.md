@@ -15,15 +15,17 @@
 </table>
 
 ## 👋 Hi! I'm Addie. I like to code 👩‍💻 and knit 🧶.
-🔍 I'm currently on the job hunt after graduating Hack Reactor's software engineering immersive.
+🔍  I'm currently on the job hunt after graduating Hack Reactor's software engineering immersive.
 
-📈 Previously I was a product marketer in enterprise tech.
+📈  Previously I was a product marketer in enterprise tech.
 
-🪆 My degress are in Russian Language & Literature. I love the intersection of language and technology.
+🪆  My degress are in Russian Language & Literature. I love the intersection of language and technology.
 
-📖 I'm currently learning Typescript.
+📖  I'm currently learning Typescript.
 
-🧦 I'm currently knitting socks.
+🧦  I'm currently knitting socks.
+
+👯‍♀️. I'm open to networking.
 
 
 
